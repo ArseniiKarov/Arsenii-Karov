@@ -5,13 +5,13 @@
 <h3 align="center"><img src="https://itmo.ru/file/pages/213/logo_na_plashke_russkiy_belyy.png" height="150" /></h3>
 
 ### My mail:
-**kasianenkovm@gmail.com**
+**karov.arsenii@gmail.com**
  
 ### You can also contact me via social media:
 
-<a href="https://vk.com/vero_caballero">
+<a href="https://vk.com/Magatron72">
    <img top="0" src="https://img.shields.io/badge/VK-%231572B6.svg?style=for-the-badge&logo=Vk&logoColor=white" alt="VK" target="_blank" margin-left="10px">
 </a>
-<a href="https://t.me/vero_caballero">
+<a href="https://t.me/viperdish72">
    <img top="0" src="https://img.shields.io/badge/telegram-%2320232a.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" target="_blank" margin-left="10px">
 </a>
