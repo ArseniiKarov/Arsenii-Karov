@@ -4,10 +4,10 @@
 <h3 align="center">Software engineer from ITMO university, Russia</h3>
 <h3 align="center"><img src="https://itmo.ru/file/pages/213/logo_na_plashke_russkiy_belyy.png" height="150" /></h3>
 
-### My mail:
+### Work mail:
 **karov.arsenii@gmail.com**
  
-### You can also contact me via social media:
+### You can also contact me in social media:
 
 <a href="https://vk.com/Magatron72">
    <img top="0" src="https://img.shields.io/badge/VK-%231572B6.svg?style=for-the-badge&logo=Vk&logoColor=white" alt="VK" target="_blank" margin-left="10px">
